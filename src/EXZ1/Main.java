@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 
-public class Mainn {
+public class Main {
     static void main() {
         List<Candidato> lista = new ArrayList<>();
         lista.add(new Candidato("Maria",9.5,20));

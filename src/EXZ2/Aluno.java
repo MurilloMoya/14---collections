@@ -1,4 +1,4 @@
-package exemplo;
+package EXZ2;
 
 import java.util.Objects;
 
